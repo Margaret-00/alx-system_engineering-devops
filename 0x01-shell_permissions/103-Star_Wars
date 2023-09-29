@@ -1,2 +1,2 @@
 #!/bin/bash
-Type telnet , hit ↵ Enter
+telnet towel.blinkenlights.nl
